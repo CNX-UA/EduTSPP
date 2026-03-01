@@ -1,0 +1,6 @@
+@EduTSPP_HostAddress = http://localhost:5170
+
+GET {{EduTSPP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
