@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+*.user
+
+*.db
+*.db-shm
+*.db-wal
+
+[Bb]in/
+[Ob]j/
